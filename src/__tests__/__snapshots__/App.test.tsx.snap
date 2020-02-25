@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should match the snapshot 1`] = `
+<App>
+  <div>
+    <App__Title>
+      <h1
+        className="App__Title-sc-10m2fy2-0 kfYYTB"
+      >
+        Test a little.
+      </h1>
+    </App__Title>
+  </div>
+</App>
+`;
